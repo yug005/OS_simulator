@@ -1,5 +1,7 @@
 # OS Simulator (Java)
 
+**Engineered by Yug Arora**
+
 A modular Operating Systems (OS) simulator written in Java.
 
 It contains small, focused implementations of classic OS topics (CPU scheduling, paging, memory allocation, disk scheduling, synchronization, deadlock detection) with a CLI to run demos and an analysis layer to compare results.

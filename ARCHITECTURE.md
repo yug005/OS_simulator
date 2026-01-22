@@ -1,5 +1,7 @@
 # Architecture
 
+**Engineered by Yug Arora**
+
 Below is a concise architecture view of the OS Simulator modules and their main relationships.
 
 ![Architecture Diagram](architecture.png)
